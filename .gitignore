@@ -1,0 +1,5 @@
+.python-version
+nombre_del_entorno/
+__pycache__/
+*.pyc
+.DS_Store
